@@ -31,7 +31,7 @@ The **Python Windows System Monitoring Flask App** is a lightweight web-based ap
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/hrparab99/Python-MonitoringApp-Using-Flask.git]
+   git clone https://github.com/hrparab99/Python-MonitoringApp-Using-Flask.git
    cd python-windows-system-monitor
    ```
 
